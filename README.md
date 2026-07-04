@@ -8,7 +8,6 @@ A retail company wants to understand its sales performance, customer purchasing 
 ## Tools
 
 - MySQL
-- SQL
 - phpMyAdmin
 - Microsoft Excel (Data Preparation)
 ---
